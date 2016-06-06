@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Myfirst</string>
+    <string name="this_is_second_activity">This is Second activity</string>
+</resources>
